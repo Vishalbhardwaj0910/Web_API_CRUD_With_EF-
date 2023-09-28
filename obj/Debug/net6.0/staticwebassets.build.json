@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5Q3xMfd6sc89aoQDA9FXmqgg1rv5JggmG8j4lzhhmrs=",
+  "Source": "ASPNET6_WebAPI",
+  "BasePath": "_content/ASPNET6_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

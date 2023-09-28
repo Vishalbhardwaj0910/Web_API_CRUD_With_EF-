@@ -1,0 +1,1 @@
+ASP.NET 6 Web API Template，You can create projects through its template.
